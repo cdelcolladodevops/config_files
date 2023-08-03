@@ -1,0 +1,2 @@
+wsl --shutdown
+wsl --export Ubuntu D:\BACKUP_WSL\Ubuntu{data}.tar
