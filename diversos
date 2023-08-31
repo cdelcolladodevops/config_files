@@ -1,0 +1,15 @@
+per reduir la finestra clicant al dock
+
+gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
+install codecs i microsoft fonts
+
+sudo apt install ubuntu-restricted-extras
+
+To install Ubuntu Cleaner, you need to add its repository and install it though a terminal:
+sudo add-apt-repository ppa:gerardpuig/ppa
+sudo apt-get update
+sudo apt-get install ubuntu-cleaner
+
+per ajustar l’hora de l’ordinador
+
+timedatectl set-local-rtc 0
